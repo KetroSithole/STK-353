@@ -1,0 +1,1 @@
+test = {'name': 'q2', 'points': 3, 'suites': [{'cases': [{'code': '>>> assert sims.__len__() == 100\n', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
